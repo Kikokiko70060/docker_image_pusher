@@ -1,6 +1,5 @@
 #ap版本有某些域名不通
 #whyour/qinglong:python3.10
-#低版本
 #whyour/qinglong:2.11.3
 #debian版本
 whyour/qinglong:debian-python3.10
